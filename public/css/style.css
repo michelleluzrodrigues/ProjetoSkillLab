@@ -1,0 +1,58 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.item1 {
+    width: 800px;
+    margin-top: 40px;
+}
+
+.item2 {
+    width: 800px;
+    margin-top: 8px;
+    margin-bottom: 20px;
+    height: 300px;
+}
+
+.alinha1 {
+    position: inherit;
+    left: 50%;
+}
+
+.left {
+    float: left;
+}
+
+th td {
+    text-align: center;
+}
+
+.alinhaBotao {
+    width: 25%;
+}
+h3{
+    text-align: center;
+}
+.form{
+    margin-top: 5px;
+}
+
+footer {
+    background-color: black;
+    height: 41px;
+    position: fixed;
+    bottom: 0;
+    width: 100%
+}
+
+footer p {
+    color: blanchedalmond;
+}
+
+.footerTexto {
+    top: 27%;
+    position: relative;
+    width: 100%
+}
